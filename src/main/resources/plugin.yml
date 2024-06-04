@@ -1,4 +1,6 @@
 name: noLocator
+author: imTofuu
 version: '${project.version}'
-main: org.imtofuu.nolocator.NoLocator
 api-version: '1.20'
+main: org.imtofuu.nolocator.NoLocator
+description: wgrresf
