@@ -1,0 +1,4 @@
+name: noLocator
+version: '${project.version}'
+main: org.imtofuu.nolocator.NoLocator
+api-version: '1.20'
